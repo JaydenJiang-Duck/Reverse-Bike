@@ -1,7 +1,7 @@
 # Reverse-Bike
-Unlike a normal bike, the reverse bike's pedals steer while the handles pedal. This was developed in OnShape.
+Unlike a normal bike, the reverse bike's pedals steer while the handlebars pedal. This was developed in Onshape. (Also, I don't recommend 3d printing this at a small scale)
 
-OnShape Link: https://cad.onshape.com/documents/679e4ba73c2f91c64d4c35f3/w/843a5c324cb1433bce7063c3/e/ff382f5afdc25ff7c120e683?renderMode=0&uiState=6a5484f9c592d1631d6d7168
+Onshape Link: https://cad.onshape.com/documents/679e4ba73c2f91c64d4c35f3/w/843a5c324cb1433bce7063c3/e/ff382f5afdc25ff7c120e683?renderMode=0&uiState=6a5484f9c592d1631d6d7168
 
 Here are some images:
 
@@ -11,3 +11,7 @@ Here are some images:
 <img width="984" height="602" alt="Screenshot 2026-07-12 at 11 30 05 PM" src="https://github.com/user-attachments/assets/88310a16-5933-471f-be87-d4b64f6b5927" />
 <img width="860" height="624" alt="Screenshot 2026-07-12 at 11 29 51 PM" src="https://github.com/user-attachments/assets/e76d8670-83f4-4f2c-8ef3-7b1a714403a8" />
 <img width="927" height="606" alt="Screenshot 2026-07-12 at 11 31 05 PM" src="https://github.com/user-attachments/assets/740bc4c9-500d-41b2-bdf4-76bdd1baf3b3" />
+
+BOM:
+- Onshape STL 
+- 3D Printer

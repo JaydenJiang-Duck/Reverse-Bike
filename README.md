@@ -1,5 +1,5 @@
 # Reverse-Bike
-Unlike a normal bike, the reverse bike's pedals steer while the handlebars pedal. This was developed in Onshape. (Also, I don't recommend 3d printing this at a small scale)
+Unlike a normal bike, the reverse bike's pedals steer while the handlebars pedal. This was developed in Onshape. (Also, I don't recommend 3d printing this due to unstable parts in Onshape)
 
 Onshape Link: https://cad.onshape.com/documents/679e4ba73c2f91c64d4c35f3/w/843a5c324cb1433bce7063c3/e/ff382f5afdc25ff7c120e683?renderMode=0&uiState=6a5484f9c592d1631d6d7168
 
